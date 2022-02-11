@@ -10,7 +10,7 @@ To complete the goal you should setup your system as described below and then ed
 ## Setup
 #### Get the data and project code
 1. Import the exercise repository to your personal Github account. Using github's import tool (https://github.com/new/import) import this url: https://github.com/FieldLevel/fieldlevel-entrylevel-da-take-home
-1. Invite our github user "fl-codereview" to be a collaborator on your new repository
+1. Invite our github user "mrjrdnthms" (jthomas@fieldlevel.com) to be a collaborator on your new repository
 1. Get your new repository on your local machine
 1. Unzip the data stored in `data.zip` to the project root. You should see two files, `email_data.csv` and `activity_data.csv`  
 
@@ -104,4 +104,7 @@ In particular, what is good about the strategy for assigning users to experiment
 In particular they are concerned that unengaged users do not open or click on emails and because of this, efforts to re-engage users that focus on email will not be effective.
 Explore the data, visualizing the relationship between emails sent and user activity both in login and activity count.
 Write a paragraph to support or argue against the product managers concern.
-Use statistical methods support your conclusion but balance that with plain language that non-technical users can understand.
+Use statistical methods support your conclusion but balance that with plain language that non-technical users can understand.'
+
+### Submission
+Once you have completed the exercise, commit your changes to your github repo. Email Jordan (jthomas@fieldlevel.com) to request a review.
